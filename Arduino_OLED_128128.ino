@@ -10,7 +10,7 @@ Program for writing to Newhaven Display 128x128 Graphic Color OLED with SSD1351 
 
 This code is written for the Arduino Uno R3.
 
-Copyright (c) 2015 - Newhaven Display International, LLC. 
+Copyright (c) 2015 - Newhaven Display International, Inc.
 
  Newhaven Display invests time and resources providing this open source code,
  please support Newhaven Display by purchasing products from Newhaven Display!
