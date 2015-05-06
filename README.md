@@ -1,4 +1,4 @@
-NHD-1.5-128128UGC3 Example Code: Arduino Uno
+NHD-1.5-128128UGC3 Example Code:
 ==============================================
 
 NHD-1_5_128128UGC3_example_uno.ino
