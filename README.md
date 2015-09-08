@@ -1,7 +1,7 @@
 NHD-1.5-128128UGC3 Example Code:
 ==============================================
  
- Program for writing to Newhaven Display 128x128 Graphic Color OLED with SSD1351 controller.
+ Program for writing to Newhaven Display's 128x128 Graphic Color OLED with SSD1351 controller.
  
  Pick one up today in the Newhaven Display shop!
  
